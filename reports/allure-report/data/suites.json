@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "test_new_file_to_media_manager",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_01_e2e_new_file_to_media_manager",
+          "uid" : "13c525d7e93def8b",
+          "parentUid" : "b5604f1f0d62e847ab0b0f6428868507",
+          "status" : "broken",
+          "time" : {
+            "start" : 1567342917095,
+            "stop" : 1567342947112,
+            "duration" : 30017
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b5604f1f0d62e847ab0b0f6428868507"
+      } ],
+      "uid" : "d6f8ae5980c5cd303fd5f12afac3151f"
+    } ],
+    "uid" : "e387fa4bb326b54ea8c19c2822aba374"
+  } ]
+}

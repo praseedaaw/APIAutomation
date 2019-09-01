@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "AMSpachuthawarrier23JG5J",
+    "children" : [ {
+      "name" : "84760-MainThread",
+      "children" : [ {
+        "name" : "test_01_e2e_new_file_to_media_manager",
+        "uid" : "13c525d7e93def8b",
+        "parentUid" : "d20fb535862f6583ad30dcdc7ec25077",
+        "status" : "broken",
+        "time" : {
+          "start" : 1567342917095,
+          "stop" : 1567342947112,
+          "duration" : 30017
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d20fb535862f6583ad30dcdc7ec25077"
+    } ],
+    "uid" : "7590ef0ce83b46013a47530dcdd3ff07"
+  } ]
+}
