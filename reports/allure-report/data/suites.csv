@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Sep 01 15:01:57 CEST 2019","Sun Sep 01 15:02:27 CEST 2019","30017","tests","test_new_file_to_media_manager","","","","test_01_e2e_new_file_to_media_manager",""

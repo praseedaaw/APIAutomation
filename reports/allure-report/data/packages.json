@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests.test_new_file_to_media_manager",
+    "children" : [ {
+      "name" : "test_01_e2e_new_file_to_media_manager",
+      "uid" : "13c525d7e93def8b",
+      "parentUid" : "e104ec051a8c17c3c6fe3a922436de11",
+      "status" : "broken",
+      "time" : {
+        "start" : 1567342917095,
+        "stop" : 1567342947112,
+        "duration" : 30017
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.test_new_file_to_media_manager"
+  } ]
+}

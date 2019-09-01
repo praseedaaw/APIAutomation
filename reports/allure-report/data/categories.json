@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "requests.exceptions.ConnectionError: HTTPConnectionPool(host='wfe', port=80): Max retries exceeded with url: /processes (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10ae664d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+      "children" : [ {
+        "name" : "test_01_e2e_new_file_to_media_manager",
+        "uid" : "13c525d7e93def8b",
+        "parentUid" : "675a6975262f5cf8c32d964dc93d6164",
+        "status" : "broken",
+        "time" : {
+          "start" : 1567342917095,
+          "stop" : 1567342947112,
+          "duration" : 30017
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "675a6975262f5cf8c32d964dc93d6164"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
